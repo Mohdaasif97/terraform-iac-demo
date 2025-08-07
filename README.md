@@ -12,6 +12,7 @@ I created a Terraform configuration that provisions:
 ## Prerequisites
 
 - Terraform installed
+- Docker installed
 - Basic terminal knowledge
 
 ## How I Did It
