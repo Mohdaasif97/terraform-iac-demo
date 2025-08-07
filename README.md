@@ -45,7 +45,7 @@ terraform state show local_file.config
 ![Architecture Diagram](images/state.png)
 
 
-### 5. Verify Infrastructure (if using Docker)
+### 5. Verify Infrastructure
 ```bash
 docker ps
 ```
