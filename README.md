@@ -20,7 +20,7 @@ I created a Terraform configuration that provisions:
 ```bash
 terraform init
 ```
-*Screenshot: terraform-init.png*
+![Architecture Diagram](images/init.png)
 
 ### 2. Plan the Infrastructure
 ```bash
